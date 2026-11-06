@@ -1,9 +1,9 @@
 # Capstone Project: Profit Analysis
 
-# Dataset (Input)
+# Dataset
 This particular dataset holds data from 50 startups in New York, California, and Florida. The features in this dataset are R&D spending, Administration Spending, Marketing Spending, location features, and Profit.
 
-# Insights (Output)
+# Insights
 • For every unit invested in R&D, the company generates approximately 
 0.97 units of profit, indicating a positive return on its research and 
 development investment. 
